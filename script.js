@@ -4,6 +4,7 @@ const quizData = {
     q2: 'b',
 };
 
+
 // Function to submit the quiz and calculate the score
 function submitQuiz() {
     let score = 0;
